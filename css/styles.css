@@ -1,0 +1,19 @@
+body {
+    color: var(--primary-text-color);
+  
+    font-family: 'Roboto', sans-serif;
+    font-weight: var(--bold-font-weight);
+    letter-spacing: var(--letter-spacing);
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  a {
+      text-decoration: none;
+    }
+    
+    button {
+      font-family: inherit;
+    }
+    
