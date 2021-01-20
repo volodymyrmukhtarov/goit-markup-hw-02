@@ -16,4 +16,72 @@ body {
     button {
       font-family: inherit;
     }
-    
+.logo {
+  font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.2;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #000000;
+}
+.logo-web {
+
+color: #2196F3;
+
+}
+.nav-links {
+  font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.42;
+letter-spacing: 0.02em;
+color: #212121;
+}
+.nav-links:focus,
+.nav-links:hover {
+  color:#2196F3;
+}
+.contacts-link {
+  font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+
+color: #757575;
+}
+.contacts-link:hover,
+.contacts-link:focus { 
+color: #2196F3;
+}
+.hero-title
+{
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+
+color:/* wite #FFFFFF */; 
+}
+.hero-button {
+  font-weight: bold;
+font-size: 16px;
+line-height: 1.875;
+/* identical to box height, or 187% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+
+color: #FFFFFF;
+
+}
