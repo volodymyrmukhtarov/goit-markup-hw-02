@@ -70,6 +70,9 @@ button {
   letter-spacing: 0.02em;
   color: var(--text-head-color);
 }
+.nav-links.current {
+  color: var(--accent-color);
+}
 .nav-links:focus,
 .nav-links:hover {
   color: var(--accent-color);
